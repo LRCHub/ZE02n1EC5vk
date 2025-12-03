@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "rose feat. Vaundy",
+  "base_artist": "Chilli Beans.",
+  "createdAt": "2025-12-03T08:32:05.328556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "rose feat. Vaundy",
+      "artist": "Chilli Beans.",
+      "has_synced": true,
+      "path": "select/01_rose_feat._Vaundy_Chilli_Beans..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "rose (feat. Vaundy)",
+      "artist": "Chilli Beans.",
+      "has_synced": true,
+      "path": "select/02_rose_(feat._Vaundy)_Chilli_Beans..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "rose - feat. Vaundy",
+      "artist": "Chilli Beans., Vaundy",
+      "has_synced": true,
+      "path": "select/03_rose_-_feat._Vaundy_Chilli_Beans.,_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "rose - feat. Vaundy",
+      "artist": "Chilli Beans.",
+      "has_synced": true,
+      "path": "select/04_rose_-_feat._Vaundy_Chilli_Beans..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Concrete Rose (feat. Hannah Eggen & Izolan)",
+      "artist": "Wyclef Jean",
+      "has_synced": false,
+      "path": "select/05_Concrete_Rose_(feat._Hannah_Eggen_&_Izolan)_Wyclef_Jean.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rosé (feat. Young Jordan)",
+      "artist": "Lil Duke",
+      "has_synced": false,
+      "path": "select/06_Rosé_(feat._Young_Jordan)_Lil_Duke.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "City Rose (feat. Sam Brookes)",
+      "artist": "Phaeleh",
+      "has_synced": false,
+      "path": "select/07_City_Rose_(feat._Sam_Brookes)_Phaeleh.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Champagne Rosé (feat. Cardi B & Madonna)",
+      "artist": "Quavo",
+      "has_synced": true,
+      "path": "select/08_Champagne_Rosé_(feat._Cardi_B_&_Madonna)_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Russian Rose (feat. Sam Browne)",
+      "artist": "Joe Loss & His Orchestra",
+      "has_synced": false,
+      "path": "select/09_Russian_Rose_(feat._Sam_Browne)_Joe_Loss_&_His_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La vie en rose (feat. Cecile McLorin Salvant)",
+      "artist": "Michael Buble",
+      "has_synced": true,
+      "path": "select/10_La_vie_en_rose_(feat._Cecile_McLorin_Salvant)_Michael_Buble.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wild Rose (feat. Esperanza Spalding)",
+      "artist": "Dianne Reeves",
+      "has_synced": false,
+      "path": "select/11_Wild_Rose_(feat._Esperanza_Spalding)_Dianne_Reeves.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Black Rose (feat. Jonathan Mendelsohn)",
+      "artist": "Blasterjaxx feat. Jonathan Mendelsohn",
+      "has_synced": true,
+      "path": "select/12_Black_Rose_(feat._Jonathan_Mendelsohn)_Blasterjaxx_feat._Jonathan_Mendelsohn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Black Rose (feat. Jonathan Mendelsohn)",
+      "artist": "BlasterJaxx, Jonathan Mendelsohn",
+      "has_synced": true,
+      "path": "select/13_Black_Rose_(feat._Jonathan_Mendelsohn)_BlasterJaxx,_Jonathan_Mendelsohn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Desert Rose (feat. Cheb Mami)",
+      "artist": "Sting, Cheb Mami",
+      "has_synced": true,
+      "path": "select/14_Desert_Rose_(feat._Cheb_Mami)_Sting,_Cheb_Mami.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CHAMPAGNE ROSÉ (feat. Madonna & Cardi B)",
+      "artist": "Quavo feat. Madonna & Cardi B",
+      "has_synced": true,
+      "path": "select/15_CHAMPAGNE_ROSÉ_(feat._Madonna_&_Cardi_B)_Quavo_feat._Madonna_&_Cardi_B.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "La Vie En Rose (feat. Ichon)",
+      "artist": "Dabeull & Sofiane Pamart",
+      "has_synced": true,
+      "path": "select/16_La_Vie_En_Rose_(feat._Ichon)_Dabeull_&_Sofiane_Pamart.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Black Rose (feat. Danko Jones)",
+      "artist": "Volbeat",
+      "has_synced": true,
+      "path": "select/17_Black_Rose_(feat._Danko_Jones)_Volbeat.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Kiss from a Rose (feat. AJ Rafael & Kurt Hugo Schneider)",
+      "artist": "Alex Goot",
+      "has_synced": false,
+      "path": "select/18_Kiss_from_a_Rose_(feat._AJ_Rafael_&_Kurt_Hugo_Schneider)_Alex_Goot.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "CHAMPAGNE ROSÉ (feat. Madonna & Cardi B)",
+      "artist": "Quavo",
+      "has_synced": true,
+      "path": "select/19_CHAMPAGNE_ROSÉ_(feat._Madonna_&_Cardi_B)_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Rose (feat. SUMIN)",
+      "artist": "BewhY feat. SUMIN",
+      "has_synced": true,
+      "path": "select/20_Rose_(feat._SUMIN)_BewhY_feat._SUMIN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "rose feat. Vaundy",
+      "artist": "Chilli Beans.",
+      "has_synced": false,
+      "path": "select/pl_01_rose_feat._Vaundy_Chilli_Beans..txt"
+    }
+  ]
+}
